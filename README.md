@@ -14,7 +14,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
   - [Author](#author)
-  - [Author](#author-1)
+- [Testimonials-grid-section](#testimonials-grid-section)
 
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [[Add solution URL here](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub/testimonialsgridsection-public-m6P_HsRpj)](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub/testimonialsgridsection-public-m6P_HsRpj)
+- Live Site URL: [https://eager-mestorf-a2cba4.netlify.app/](https://eager-mestorf-a2cba4.netlify.app/)
 
 ## My process
 
@@ -54,21 +54,11 @@ Use this section to recap over some of your major learnings while working throug
 
 To see how you can add code snippets, see below:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
+
 ```
 
-## Author
 
 ## Author
 
